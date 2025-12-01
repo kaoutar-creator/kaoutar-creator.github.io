@@ -1,3 +1,9 @@
+<nav style="background:#fff; padding:10px; border-bottom:1px solid #ddd; position:sticky; top:0;">
+  <strong><a href="#about">À propos</a></strong> |
+  <strong><a href="#skills">Compétences</a></strong> |
+  <strong><a href="#projects">Projets</a></strong> |
+  <strong><a href="#contact">Contact</a></strong>
+</nav>
 # 👋 Bonjour, je suis **Kaoutar Maliki**
 
 Étudiante en **Master 2 Ingénierie de la Décision**, passionnée par l’analyse de données, 
