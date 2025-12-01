@@ -57,6 +57,7 @@ Objectif : concevoir un système d'information complet (MCD, MLD, tables, formul
 🔗 **Voir le projet :**  
 https://github.com/kaoutar-creator/projet-systeme-information
 
+
 ---
 
 ### 🔸 **3. Projet Élaboration d’un questionnaire**  
@@ -66,8 +67,8 @@ Analyse quantitative, construction d’un questionnaire, traitement et interpré
 ---
 
 ## 📞 Contact
-📧 Email : *à ajouter*  
-🔗 LinkedIn : *à ajouter*  
+📧 Email : kaoutarmaliki7@gmail.com  
+🔗 LinkedIn : https://www.linkedin.com/in/kaoutar-maliki  
 💼 GitHub : https://github.com/kaoutar-creator
 
 ---
