@@ -5,9 +5,6 @@
   <strong><a href="#contact">Contact</a></strong>
 </nav>
 # 👋 Bonjour, je suis **Kaoutar Maliki**
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/161684442?v=4" width="150" style="border-radius:50%;">
-</p>
 
 Étudiante en **Master 2 Ingénierie de la Décision**, passionnée par l’analyse de données, 
 le Machine Learning, les systèmes d’information et la résolution de problèmes concrets 
